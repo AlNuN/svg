@@ -1,0 +1,28 @@
+{
+  "name": "svg",
+  "version": "1.0.0",
+  "description": "Learning SVG with css and js animations",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlNuN/svg.git"
+  },
+  "keywords": [
+    "svg",
+    "animations"
+  ],
+  "author": "Matheus Alves Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlNuN/svg/issues"
+  },
+  "homepage": "https://github.com/AlNuN/svg#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
