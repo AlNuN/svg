@@ -60,6 +60,23 @@ p {
   margin: 20px;
 }
 
+.lett-footer {
+  position: absolute;
+  width: 60%;
+  left: 20%;
+  margin-top: 20%;
+  fill: #fff;
+  opacity: 0.8;
+}
+
+.container-footer {
+  position: relative;
+}
+
+.footer-infos {
+  text-align: center;
+}
+
 @keyframes lett-preenchimento {
   to {
     fill: #BE253F;
